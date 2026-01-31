@@ -6,3 +6,4 @@
 - Education and venture-related loans represent the largest loan intent categories, while debt consolidation loans present potential sensitivity under economic stress.
 - Geographic and demographic diversification reduces single-segment concentration risk.
 - The report structure supports management information (MI) and regulatory-style reporting through controlled segmentation and drill-down capability.
+<img width="1381" height="756" alt="Lloyds Banking Dashboard" src="https://github.com/user-attachments/assets/e013dd44-2811-48b8-a29e-6a9f219f19fa" />
